@@ -1,0 +1,29 @@
+body {
+margin: 100;
+}
+
+.conteiner {
+background-color: lightblue;
+text-align: justify;
+}
+
+.titulos {
+text-align: center;
+}
+
+.box_1 {
+border-style: solid;
+border-width: medium;
+border-color: black;
+font-family: Verdana, Tahoma, sans-serif;
+background-color: white;
+}
+
+.box_2 {
+border-style: solid;
+border-width: medium;
+border-color: black;
+font-family: Verdana, Tahoma, sans-serif;
+background-color: white;
+text-align: center;
+}
